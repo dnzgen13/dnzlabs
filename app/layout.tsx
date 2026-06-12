@@ -31,6 +31,17 @@ export const metadata = {
       "Independent AI engineering lab focused on AI agents, LLM applications and automation systems.",
     url: "https://dnzlabs.vercel.app",
     siteName: "DNZ Labs",
+
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "DNZ Labs",
+      },
+    ],
+
+    locale: "en_US",
     type: "website",
   },
 };
