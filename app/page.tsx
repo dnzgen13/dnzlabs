@@ -6,11 +6,22 @@ export default function Home() {
 
       <div className="relative mx-auto max-w-7xl px-8">
         <header className="flex items-center justify-between py-8">
-          <div>
-            <h1 className="text-3xl font-bold">
-              DNZ <span className="text-blue-500">Labs</span>
-            </h1>
-            <p className="text-sm text-zinc-400">AI Engineering & Research</p>
+          <div className="flex items-center gap-3">
+            <img
+              src="/logo.png"
+              alt="DNZ Labs"
+              className="w-30 h-30"
+            />
+
+            <div>
+              <h1 className="text-3xl font-bold">
+                DNZ <span className="text-blue-500">Labs</span>
+              </h1>
+
+              <p className="text-sm text-zinc-400">
+                AI Engineering & Research
+              </p>
+            </div>
           </div>
 
           <nav className="hidden gap-8 text-sm text-zinc-300 md:flex">
