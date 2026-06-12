@@ -48,14 +48,24 @@ export default function Home() {
               </button>
             </div>
           </div>
-          <div className="relative hidden h-[560px] items-center justify-center lg:flex translate-x-24">
-            <div className="absolute h-[520px] w-[520px] rounded-full bg-blue-600/20 blur-3xl" />
 
-            <img
-              src="/hero-brain.png"
-              alt="AI neural brain visualization"
-              className="relative w-[1000px] max-w-none animate-float-brain drop-shadow-[0_0_80px_rgba(59,130,246,0.55)]"
-            />
+          <div className="relative hidden h-[520px] items-center justify-center lg:flex">
+            <div className="absolute h-96 w-96 rounded-full bg-blue-600/20 blur-3xl" />
+
+            <div className="relative flex h-80 w-80 animate-pulse-glow items-center justify-center rounded-full border border-blue-500/40 bg-blue-500/10 shadow-[0_0_100px_rgba(59,130,246,0.6)]">
+              <div className="absolute h-64 w-64 animate-spin-slow rounded-full border border-blue-400/30 border-t-blue-400" />
+              <div className="absolute h-48 w-48 animate-spin-slow rounded-full border border-blue-400/20 border-b-blue-400" />
+              <div className="absolute h-28 w-28 rounded-full bg-blue-500/30 blur-xl" />
+
+              <div className="grid grid-cols-3 gap-5">
+                {Array.from({ length: 9 }).map((_, i) => (
+                  <span
+                    key={i}
+                    className="h-3 w-3 rounded-full bg-blue-400 shadow-[0_0_20px_rgba(96,165,250,0.9)]"
+                  />
+                ))}
+              </div>
+            </div>
           </div>
         </section>
         {/* Services */}
