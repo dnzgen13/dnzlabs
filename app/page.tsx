@@ -322,20 +322,19 @@ export default function Home() {
               </p>
 
               <h3 className="mb-8 text-5xl font-bold">
-                Independent AI research
-                and engineering practice.
+              AI Engineering &
+              Applied Research.
               </h3>
 
               <p className="mb-6 text-lg leading-8 text-zinc-400">
-                DNZ Labs is focused on building practical AI systems,
-                automation tools and intelligent applications based on
-                modern language models and data-driven technologies.
+              DNZ Labs designs and deploys AI systems, intelligent agents
+              and automation solutions for real-world business challenges.
               </p>
 
               <p className="text-lg leading-8 text-zinc-400">
-                The lab combines applied engineering, research workflows
-                and product thinking to explore how artificial intelligence
-                can be used in real business and information environments.
+              Our work combines applied AI engineering, research and
+              automation to create practical solutions that improve
+              business processes and decision-making.
               </p>
             </div>
 
