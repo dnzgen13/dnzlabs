@@ -139,15 +139,15 @@ export default function Home() {
               </p>
 
               <h3 className="text-5xl font-bold">
-                Practical AI Systems
+                AI Systems,
                 <br />
-                Built for Real Use
+                Agents & Automation
               </h3>
             </div>
 
             <p className="max-w-xl text-lg leading-8 text-zinc-400">
-              A collection of applied AI projects focused on automation,
-              document intelligence, research workflows and information analysis.
+              Applied AI projects focused on intelligent agents,
+              business automation, research workflows and practical AI systems.
             </p>
           </div>
 
@@ -171,12 +171,12 @@ export default function Home() {
               </div>
 
               <h4 className="mb-4 text-2xl font-semibold">
-                AI News Analyst
+                AI Agent Systems
               </h4>
 
               <p className="mb-8 leading-7 text-zinc-400">
-                An AI-powered system for collecting, classifying and summarizing
-                technology news with automated insights and content generation.
+                Autonomous and semi-autonomous agents for research, data processing
+                and business workflows.
               </p>
 
               <a href="#" className="font-medium text-blue-400 group-hover:text-blue-300">
@@ -202,12 +202,12 @@ export default function Home() {
               </div>
 
               <h4 className="mb-4 text-2xl font-semibold">
-                RAG Document Assistant
+                Business Automation
               </h4>
 
               <p className="mb-8 leading-7 text-zinc-400">
-                A document intelligence assistant that answers questions based on
-                uploaded files using retrieval-augmented generation.
+                AI-powered automation systems designed to streamline business
+                operations and digital workflows.
               </p>
 
               <a href="#" className="font-medium text-blue-400 group-hover:text-blue-300">
@@ -233,12 +233,11 @@ export default function Home() {
               </div>
 
               <h4 className="mb-4 text-2xl font-semibold">
-                Research Agent
+                AI Research Assistant
               </h4>
 
               <p className="mb-8 leading-7 text-zinc-400">
-                An AI research workflow that collects information, extracts key
-                points and generates structured analytical reports.
+                AI-powered research assistant for collecting information, analyzing sources and generating structured reports.
               </p>
 
               <a href="#" className="font-medium text-blue-400 group-hover:text-blue-300">
@@ -322,19 +321,19 @@ export default function Home() {
               </p>
 
               <h3 className="mb-8 text-5xl font-bold">
-              AI Engineering &
-              Applied Research.
+                AI Engineering &
+                Applied Research.
               </h3>
 
               <p className="mb-6 text-lg leading-8 text-zinc-400">
-              DNZ Labs designs and deploys AI systems, intelligent agents
-              and automation solutions for real-world business challenges.
+                DNZ Labs designs and deploys AI systems, intelligent agents
+                and automation solutions for real-world business challenges.
               </p>
 
               <p className="text-lg leading-8 text-zinc-400">
-              Our work combines applied AI engineering, research and
-              automation to create practical solutions that improve
-              business processes and decision-making.
+                Our work combines applied AI engineering, research and
+                automation to create practical solutions that improve
+                business processes and decision-making.
               </p>
             </div>
 
@@ -342,17 +341,17 @@ export default function Home() {
               <div className="grid gap-6">
                 <div>
                   <p className="text-4xl font-bold text-blue-500">03+</p>
-                  <p className="text-zinc-400">AI project directions</p>
+                  <p className="text-zinc-400">Core AI focus areas</p>
                 </div>
 
                 <div>
                   <p className="text-4xl font-bold text-blue-500">08+</p>
-                  <p className="text-zinc-400">technologies in stack</p>
+                  <p className="text-zinc-400">Technologies in stack</p>
                 </div>
 
                 <div>
                   <p className="text-4xl font-bold text-blue-500">2026</p>
-                  <p className="text-zinc-400">active development roadmap</p>
+                  <p className="text-zinc-400">Active development roadmap</p>
                 </div>
               </div>
             </div>
@@ -436,25 +435,27 @@ export default function Home() {
                 </p>
 
                 <h3 className="mb-6 text-5xl font-bold">
-                  Let&apos;s build intelligent systems.
+                  Let&apos;s build practical AI systems.
                 </h3>
 
                 <p className="max-w-2xl text-lg leading-8 text-zinc-400">
-                  DNZ Labs is open to AI engineering opportunities,
-                  collaborations and applied research projects.
+                  Interested in AI systems, intelligent agents, automation or applied research?
+                  Let&apos;s discuss your project, idea or collaboration.
                 </p>
               </div>
 
               <div className="flex flex-col gap-4">
                 <a
-                  href="mailto:contact@dnzlabs.com"
+                  href="mailto:contact@nzlabs.tech"
                   className="rounded-xl bg-blue-600 px-8 py-4 text-center font-medium transition hover:bg-blue-500"
                 >
-                  contact@dnzlabs.com
+                  contact@dnzlabs.tech
                 </a>
 
                 <a
-                  href="#"
+                  href="https://github.com/dnzgen13"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="rounded-xl border border-zinc-700 px-8 py-4 text-center font-medium transition hover:border-blue-500 hover:text-blue-400"
                 >
                   View GitHub
