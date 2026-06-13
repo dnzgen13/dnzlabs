@@ -53,9 +53,14 @@ export default function Home() {
                 View Projects
               </button>
 
-              <button className="rounded-xl border border-zinc-700 px-8 py-4 font-medium transition hover:border-blue-500 hover:text-blue-400">
+              <a
+                href="https://github.com/dnzgen13"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-xl border border-zinc-700 px-8 py-4 font-medium transition hover:border-blue-500 hover:text-blue-400"
+              >
                 GitHub
-              </button>
+              </a>
             </div>
           </div>
           <div className="relative hidden h-[560px] items-center justify-center lg:flex translate-x-24">
