@@ -19,7 +19,7 @@ export default function Home() {
               </h1>
 
               <p className="text-sm text-zinc-400">
-                AI Engineering & Research
+                AI Engineering & Applied Research
               </p>
             </div>
           </div>
@@ -35,18 +35,19 @@ export default function Home() {
         <section className="grid min-h-[80vh] items-center gap-16 lg:grid-cols-2">
           <div>
             <p className="mb-4 font-medium text-blue-500">
-              Independent AI Engineering Lab
+              AI Engineering & Applied Research
             </p>
 
             <h2 className="mb-8 text-5xl font-bold leading-tight md:text-7xl">
-              Building practical{" "}
-              <span className="text-blue-500">AI systems</span>, agents and
-              automation tools.
+              Building intelligent{" "}
+              <span className="text-blue-500">systems</span>, agents and
+              automation.
             </h2>
 
             <p className="mb-10 max-w-2xl text-lg leading-8 text-zinc-400">
-              DNZ Labs focuses on LLM applications, AI agents, intelligent
-              automation, information systems and applied AI research.
+              DNZ Labs develops intelligent systems, AI agents, automation
+              solutions and applied research projects focused on real-world
+              challenges.
             </p>
 
             <div className="flex flex-wrap gap-4">
