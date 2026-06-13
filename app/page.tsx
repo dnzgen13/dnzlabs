@@ -49,9 +49,12 @@ export default function Home() {
             </p>
 
             <div className="flex flex-wrap gap-4">
-              <button className="rounded-xl bg-blue-600 px-8 py-4 font-medium transition hover:bg-blue-500">
+              <a
+                href="#projects"
+                className="rounded-xl bg-blue-600 px-8 py-4 font-medium transition hover:bg-blue-500"
+              >
                 View Projects
-              </button>
+              </a>
 
               <a
                 href="https://github.com/dnzgen13"
