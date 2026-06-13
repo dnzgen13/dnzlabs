@@ -451,7 +451,7 @@ export default function Home() {
 
               <div className="flex flex-col gap-4">
                 <a
-                  href="mailto:contact@nzlabs.tech"
+                  href="mailto:contact@dnzlabs.tech"
                   className="rounded-xl bg-blue-600 px-8 py-4 text-center font-medium transition hover:bg-blue-500"
                 >
                   contact@dnzlabs.tech
@@ -480,28 +480,28 @@ export default function Home() {
 
             <div className="flex gap-6">
               <a
-              href="https://github.com/dnzgen13"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-blue-400"
+                href="https://github.com/dnzgen13"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400"
               >
-              GitHub
+                GitHub
               </a>
               <a
-              href="https://www.linkedin.com/in/dnzaytsev"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-blue-400"
+                href="https://www.linkedin.com/in/dnzaytsev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400"
               >
-              LinkedIn
+                LinkedIn
               </a>
               <a
-              href="https://x.com/dnzaytsev"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-blue-400"
+                href="https://x.com/dnzaytsev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-blue-400"
               >
-              X
+                X
               </a>
             </div>
           </div>
