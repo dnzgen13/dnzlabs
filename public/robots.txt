@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dnzlabs.vercel.app/sitemap.xml
+Sitemap: https://dnzlabs.tech/sitemap.xml
