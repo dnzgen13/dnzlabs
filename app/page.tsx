@@ -475,18 +475,33 @@ export default function Home() {
         <footer className="border-t border-zinc-900 py-10">
           <div className="flex flex-col justify-between gap-4 text-sm text-zinc-500 md:flex-row">
             <p>
-              © 2026 DNZ Labs. AI Engineering & Research.
+              © 2026 DNZ Labs. All rights reserved.
             </p>
 
             <div className="flex gap-6">
-              <a href="#" className="hover:text-blue-400">
-                GitHub
+              <a
+              href="https://github.com/dnzgen13"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+              >
+              GitHub
               </a>
-              <a href="#" className="hover:text-blue-400">
-                LinkedIn
+              <a
+              href="https://www.linkedin.com/in/dnzaytsev"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+              >
+              LinkedIn
               </a>
-              <a href="#" className="hover:text-blue-400">
-                X
+              <a
+              href="https://x.com/dnzaytsev"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+              >
+              X
               </a>
             </div>
           </div>
