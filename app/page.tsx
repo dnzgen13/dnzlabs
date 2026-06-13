@@ -45,9 +45,7 @@ export default function Home() {
             </h2>
 
             <p className="mb-10 max-w-2xl text-lg leading-8 text-zinc-400">
-              DNZ Labs develops intelligent systems, AI agents, automation
-              solutions and applied research projects focused on real-world
-              challenges.
+              Designing and deploying AI systems, agents and automation solutions for real-world business challenges.
             </p>
 
             <div className="flex flex-wrap gap-4">
