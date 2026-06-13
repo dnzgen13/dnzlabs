@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "DNZ Labs | AI Engineering & Research",
+  title: "DNZ Labs | AI Engineering & Applied Research",
   description:
-    "DNZ Labs is an independent AI engineering and research lab focused on AI agents, LLM applications, automation and information intelligence.",
+    "DNZ Labs designs and deploys AI systems, intelligent agents and automation solutions for real-world business challenges.",
   keywords: [
     "AI Engineering",
     "AI Agents",
@@ -26,10 +26,10 @@ export const metadata = {
   ],
   authors: [{ name: "DNZ Labs" }],
   openGraph: {
-    title: "DNZ Labs | AI Engineering & Research",
+    title: "DNZ Labs | AI Engineering & Applied Research",
     description:
-      "Independent AI engineering lab focused on AI agents, LLM applications and automation systems.",
-    url: "https://dnzlabs.vercel.app",
+      "Designing and deploying AI systems, intelligent agents and automation solutions for real-world business challenges.",
+    url: "https://dnzlabs.tech",
     siteName: "DNZ Labs",
 
     images: [
